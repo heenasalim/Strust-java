@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+C:\Users\Lenovo\Desktop\Strust\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3949891882.index
+\Struct2demo\src
+C:\Users\Lenovo\Desktop\Strust\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1826267743.index
+\Struct2demo\src
+C:\Users\Lenovo\Desktop\Strust\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1236750407.index
+\Struct2demo\src
+C:\Users\Lenovo\Desktop\Strust\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\269508649.index
+\Struct2demo\src
+C:\Users\Lenovo\Desktop\Strust\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2156927940.index
+\Struct2demo\src

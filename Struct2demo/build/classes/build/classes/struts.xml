@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC 
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+ 
+<package  name="pk"   namespace="/struts" extends="struts-default">
+<action  name="LoginAction"  class="pk.LoginAction">
+<result name="success">/Welcome.jsp</result>
+</action>
+</package>
+<package  name="Action"  namespace="/a"   extends="struts-default">
+<action name="ActionClass"   class="Action.ActionClass" >
+
+<result name="error">/UITagDemo.jsp</result>
+<result  name="success">/Validationinterfacesall.jsp</result>
+</action>
+
+<action  name="Logininterfaces"   class="Action.Logininterfaces">
+<result name="success">/Welcome.jsp</result>
+
+</action>
+<action  name="SessionByMap"   class="Action.SessionByMap">
+<result name="error">/Validationinterfacesall.jsp</result>
+
+</action>
+</package>
+
+<package   name="Interceptor"   namespace="/a"   extends="struts-default">
+<action  name="InterceptorAction"  class="Interceptor.InterceptorAction">
+<interceptor-ref   name="timer"></interceptor-ref>
+<interceptor-ref  name="logger"></interceptor-ref>
+
+<interceptor-ref name="workflow" >
+<param  name="excludeMethods"></param>
+</interceptor-ref>
+
+<interceptor-ref  name="defaultStack"/>
+<interceptor-ref  name="exception"></interceptor-ref>
+<result  name="success">/Interceptor1.jsp</result>
+<result  name="error">/error.jsp</result>
+</action>
+</package>
+  
+</struts>

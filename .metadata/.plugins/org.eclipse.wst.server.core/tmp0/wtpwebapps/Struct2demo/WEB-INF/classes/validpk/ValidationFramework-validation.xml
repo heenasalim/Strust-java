@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <!DOCTYPE validators PUBLIC "-//OpenSymphony Group//XWork Validator 1.0.2//EN" 
+"http://www.opensymphony.com/xwork/xwork-validator-1.0.2.dtd">
+
+<!-- !DOCTYPE validators PUBLIC "-//Apache Struts//XWork Validator 1.0.3//EN"
+    "http://struts.apache.org/dtds/xwork-validator-1.0.3.dtd">
+    <?xml version="1.0" encoding="UTF-8"?>  
+    
+    
+    
+     <!DOCTYPE validators PUBLIC   
+        "-//OpenSymphony Group//XWork Validator 1.0.2//EN"   
+        "http://www.opensymphony.com/xwork/xwork-validator-1.0.2.dtd">  
+        --> 
+  
+  
+<validators>
+<field name="b.user">
+<field-validator  type="requiredstring">
+<message>enter  both  feilds  corr</message>
+</field-validator>
+</field>  
+ 
+
+<field  name="b.pass">
+<field-validator type="requiredstring">
+<message>password  should be not  blank  or   in  string  format</message>
+</field-validator>
+</field>
+
+<field  name="b.email">
+<field-validator type="regex">
+<param  name="expression"><![CDATA[([s][0-9])]]></param>
+<!-- <![CDATA[([s][e][e][d][0-9][0-9][0-9])]]> -->
+<message>Enter email  id  in  correct  format</message>
+</field-validator>
+</field>
+
+<field   name="b.cpass">
+    <field-validator type="stringlength" >
+<param  name="maxLength">6</param>
+<param  name="minLength">3</param>
+<message>user  length  should  be  in  5-11</message>
+</field-validator>
+<field-validator  type="fieldexpression">
+<param name="expression">(b.cpass==b.pass)</param>
+<message>password  and  confirm  password  shold  be  same </message>
+</field-validator>
+</field>
+
+
+<field   name="b.age">
+<field-validator  type="regex">
+<param  name="expression"><![CDATA[([a-z][0-9][0-9][a][b][c])]]></param>
+<message>enter  in   a-z 0-9  0-9 abc  format</message>
+</field-validator>
+</field>
+</validators>
+

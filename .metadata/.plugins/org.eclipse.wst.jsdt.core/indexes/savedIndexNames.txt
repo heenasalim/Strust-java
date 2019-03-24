@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+C:\Users\Lenovo\Desktop\Strust\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3264787617.index
+3306269269.index
+2186151851.index
+2786138555.index
+2603901232.index
+1622526327.index

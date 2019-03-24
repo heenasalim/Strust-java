@@ -1,0 +1,31 @@
+package Action;
+
+import java.util.Map;
+
+import org.apache.struts2.interceptor.SessionAware;
+
+import com.opensymphony.xwork2.ActionSupport;
+
+public class SessionByMap   extends   ActionSupport implements SessionAware {
+Map  m;
+ActionBean b;
+
+public  String execute() throws Exception   //  very  important  t  add   exception
+{
+
+	
+String  k=(String) m.get("user");
+	
+String  username=(String) m.get("user");
+System.out.println("user  is"+ username);
+System.out.println("user  by  using  avtionbean  class" + b.user);
+return  ERROR ;
+
+}
+
+@Override
+public void setSession(Map arg0) {
+	// TODO Auto-generated method stub
+	m=arg0;
+}
+}

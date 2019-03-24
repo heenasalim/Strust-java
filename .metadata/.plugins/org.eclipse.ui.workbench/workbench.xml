@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="75" version="2.0">
+<workbenchAdvisor/>
+<window height="728" maximized="true" width="1024" x="32" y="0">
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.ui.navigator.ProjectExplorer"/>
+<orientation position="512" view="org.eclipse.ui.views.ResourceNavigator"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.dtd.core.dtdsource.source" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1446455297030" focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="struts.xml" partName="struts.xml" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/src/struts.xml" title="struts.xml" tooltip="Struct2demo/src/struts.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/src/struts.xml"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="Interceptor1.jsp" partName="Interceptor1.jsp" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/WebContent/Interceptor1.jsp" title="Interceptor1.jsp" tooltip="Struct2demo/WebContent/Interceptor1.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/WebContent/Interceptor1.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="405" selectionOffset="1665" selectionTopPixel="165"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="pushbean.java" partName="pushbean.java" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/src/pushbeantags/pushbean.java" title="pushbean.java" tooltip="Struct2demo/src/pushbeantags/pushbean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/src/pushbeantags/pushbean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="97" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="pushbean.jsp" partName="pushbean.jsp" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/WebContent/pushbean.jsp" title="pushbean.jsp" tooltip="Struct2demo/WebContent/pushbean.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/WebContent/pushbean.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1071" selectionTopPixel="196"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pushbeanmodel.java" partName="Pushbeanmodel.java" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/src/pushbeantags/Pushbeanmodel.java" title="Pushbeanmodel.java" tooltip="Struct2demo/src/pushbeantags/Pushbeanmodel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/src/pushbeantags/Pushbeanmodel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="129" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="LoginDemo.jsp" partName="LoginDemo.jsp" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/WebContent/LoginDemo.jsp" title="LoginDemo.jsp" tooltip="Struct2demo/WebContent/LoginDemo.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/WebContent/LoginDemo.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="443" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="Welcome.jsp" partName="Welcome.jsp" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/WebContent/Welcome.jsp" title="Welcome.jsp" tooltip="Struct2demo/WebContent/Welcome.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/WebContent/Welcome.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="634" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="UITagDemo.jsp" partName="UITagDemo.jsp" path="C:/Users/Lenovo/Desktop/Strust/Struct2demo/WebContent/UITagDemo.jsp" title="UITagDemo.jsp" tooltip="Struct2demo/WebContent/UITagDemo.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Struct2demo/WebContent/UITagDemo.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="197" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
+<columnWidths org.eclipse.ui.ide.allSeverityField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets">
+<viewState>
+<entry expansion="false" extent="20" maximum="100" minimum="0" pinned="false" value="0">&#x0A;<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+</entry>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>&#x0A;<filter element="*.class" isEnabled="false"/>
+<filter element="RemoteSystemsConnections" isEnabled="true"/>
+<filter element="RemoteSystemsTempFiles" isEnabled="true"/>
+<filter element=".*" isEnabled="false"/>
+</filters>
+<expanded>&#x0A;<element path="/Struct2demo"/>
+<element path="/Struct2demo/WebContent"/>
+</expanded>
+<selection>&#x0A;<element path="/Struct2demo/WebContent/UITagDemo.jsp"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" showCategories="true"/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jst.jsp.core.jspsource.source" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.views.AllMarkersView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.AllMarkersView" ratio="0.29855537"/>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.29855537"/>
+<view id="org.eclipse.wst.server.ui.ServersView" ratio="0.3611557"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" ratio="0.29855537"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" ratio="0.29855537"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1c2beca" orientation="512" selectedTabId="org.eclipse.ui.views.ResourceNavigator" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ResourceNavigator" ratio="0.29977462"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1a93257" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@181b520" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e3cfbf" ratio="0.43548387" ratioLeft="270" ratioRight="350" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@13f46b1" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e78151" ratio="0.10479705" ratioLeft="142" ratioRight="1213" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottomRight" ratio="0.6030369" ratioLeft="278" ratioRight="183" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e78151">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.AllMarkersView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.91144526" ratioLeft="1091" ratioRight="106" relationship="2" relative="org.eclipse.ui.internal.ViewStack@e78151">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@12cc96d" ratio="0.93317974" ratioLeft="405" ratioRight="29" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e78151">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1d9a145" ratio="0.63870966" ratioLeft="396" ratioRight="224" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e78151">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@15e0281" ratio="0.05483871" ratioLeft="34" ratioRight="586" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e78151">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1c2beca" ratio="0.1061747" ratioLeft="141" ratioRight="1187" relationship="2" relative="org.eclipse.ui.internal.ViewStack@e78151">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.26642066" ratioLeft="361" ratioRight="994" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1c2beca"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@183b5d" ratio="0.783871" ratioLeft="486" ratioRight="134" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/Interceptor1.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Struct2demo/src/pushbeantags/pushbean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/pushbean.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/Struct2demo/src/struts.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/ValidationFramework2.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Struct2demo/src/pushbeantags/Pushbeanmodel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/LoginDemo.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/Welcome.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/UITagDemo.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Struct2demo/WebContent/Welcome.jsp"/>
+</editors>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1066" y="0"/>
+</item>
+<item historyLabel="ValidationFramework2.jsp" index="4">
+<position info="not_deleted" x="830" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1206" y="0"/>
+</item>
+<item historyLabel="Interceptor1.jsp" index="0">
+<position info="not_deleted" x="1665" y="405"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="pushbean.java" index="1">
+<position info="not_deleted" x="87" y="8"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="911" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1200" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="985" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="36" y="0"/>
+</item>
+<item historyLabel="pushbean.java" index="1">
+<position info="not_deleted" x="87" y="8"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="36" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="303" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="pushbean.java" index="1">
+<position info="not_deleted" x="87" y="8"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="303" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="pushbean.java" index="1">
+<position info="not_deleted" x="385" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="298" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="pushbean.java" index="1">
+<position info="not_deleted" x="97" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="110" y="0"/>
+</item>
+<item historyLabel="struts.xml" index="3">
+<position info="not_deleted" x="192" y="193"/>
+</item>
+<item historyLabel="Interceptor1.jsp" index="0">
+<position info="not_deleted" x="1665" y="405"/>
+</item>
+<item historyLabel="pushbean.java" index="1">
+<position info="not_deleted" x="97" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="429" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="83" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="429" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="801" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="141" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="577" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="129" y="12"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="374" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="985" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="129" y="12"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="901" y="0"/>
+</item>
+<item historyLabel="Pushbeanmodel.java" index="5">
+<position info="not_deleted" x="129" y="12"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1058" y="0"/>
+</item>
+<item historyLabel="pushbean.jsp" index="2">
+<position info="not_deleted" x="1058" y="0"/>
+</item>
+<item historyLabel="LoginDemo.jsp" index="6">
+<position info="not_deleted" x="443" y="0"/>
+</item>
+<item historyLabel="Welcome.jsp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="UITagDemo.jsp" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Welcome.jsp" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1c2beca"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="UITagDemo.jsp" tooltip="Struct2demo/WebContent/UITagDemo.jsp">
+<persistable path="/Struct2demo/WebContent/UITagDemo.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="Welcome.jsp" tooltip="Struct2demo/WebContent/Welcome.jsp">
+<persistable path="/Struct2demo/WebContent/Welcome.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="LoginDemo.jsp" tooltip="Struct2demo/WebContent/LoginDemo.jsp">
+<persistable path="/Struct2demo/WebContent/LoginDemo.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pushbeanmodel.java" tooltip="Struct2demo/src/pushbeantags/Pushbeanmodel.java">
+<persistable path="/Struct2demo/src/pushbeantags/Pushbeanmodel.java"/>
+</file>
+</mruList>
+</workbench>
